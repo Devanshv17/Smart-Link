@@ -1,0 +1,38 @@
+{
+    "url": "https://geeksforgeeks.org",
+    "questions": [
+        "Here are 10 questions based on the text, each under 70 characters:",
+        "1. What is GeeksforGeeks known for?",
+        "2. Who benefits most from GeeksforGeeks?",
+        "3. How does GeeksforGeeks aid interview prep?",
+        "4. What type of content is on GeeksforGeeks?",
+        "5. Why are GeeksforGeeks' tutorials popular?",
+        "6. What programming languages are covered?",
+        "7. How does GeeksforGeeks rank globally?",
+        "8. Where is GeeksforGeeks most popular?",
+        "9. What makes GeeksforGeeks user-friendly?",
+        "10. Is GeeksforGeeks suitable for beginners? "
+    ],
+    "relevant_links": [
+        {
+            "url": "https://www.geeksforgeeks.org/programming-languages/?ref=home_viewall_row4",
+            "title": "Learn Programming Languages- List of 11 Popular Programming Languages - GeeksforGeeks"
+        },
+        {
+            "url": "https://www.geeksforgeeks.org/python-interview-questions/?ref=outindfooter",
+            "title": "Top 50+ Python Interview Questions and Answers (Latest 2024)"
+        },
+        {
+            "url": "https://www.geeksforgeeks.org/introduction-to-programming-languages/?ref=outindfooter",
+            "title": "Introduction to Programming Languages - GeeksforGeeks"
+        },
+        {
+            "url": "https://www.geeksforgeeks.org/geeksforgeeks-school/?ref=home_viewall_row10",
+            "title": "GeeksforGeeks School - GeeksforGeeks"
+        },
+        {
+            "url": "https://www.geeksforgeeks.org/most-commonly-asked-system-design-interview-problems-questions/?ref=outindfooter",
+            "title": "Most Commonly Asked System Design Interview Problems/Questions - GeeksforGeeks"
+        }
+    ]
+}
