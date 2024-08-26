@@ -20,6 +20,9 @@ For detailed information on the problem statement, please refer to [this documen
 
 ## Achievements
 Our solution achieved an accuracy of 83%.
+<img width="525" alt="Screenshot 2024-08-26 at 1 19 30 PM" src="https://github.com/user-attachments/assets/29f73f70-5ac7-4047-b4ed-1ba50efd258d">
+
+
 
 ## Milestones
 1. Extraction of embedded links from a website.
